@@ -1,0 +1,44 @@
+D:\Assignment\COMPROG 2\Major_Project\bin\Debug\net9.0-windows\Major_Project.exe
+D:\Assignment\COMPROG 2\Major_Project\bin\Debug\net9.0-windows\Major_Project.deps.json
+D:\Assignment\COMPROG 2\Major_Project\bin\Debug\net9.0-windows\Major_Project.runtimeconfig.json
+D:\Assignment\COMPROG 2\Major_Project\bin\Debug\net9.0-windows\Major_Project.dll
+D:\Assignment\COMPROG 2\Major_Project\bin\Debug\net9.0-windows\Major_Project.pdb
+D:\Assignment\COMPROG 2\Major_Project\obj\Debug\net9.0-windows\Major_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\COMPROG 2\Major_Project\obj\Debug\net9.0-windows\Major_Project.AssemblyInfoInputs.cache
+D:\Assignment\COMPROG 2\Major_Project\obj\Debug\net9.0-windows\Major_Project.AssemblyInfo.cs
+D:\Assignment\COMPROG 2\Major_Project\obj\Debug\net9.0-windows\Major_Project.csproj.CoreCompileInputs.cache
+D:\Assignment\COMPROG 2\Major_Project\obj\Debug\net9.0-windows\Major_Project.dll
+D:\Assignment\COMPROG 2\Major_Project\obj\Debug\net9.0-windows\refint\Major_Project.dll
+D:\Assignment\COMPROG 2\Major_Project\obj\Debug\net9.0-windows\Major_Project.pdb
+D:\Assignment\COMPROG 2\Major_Project\obj\Debug\net9.0-windows\Major_Project.genruntimeconfig.cache
+D:\Assignment\COMPROG 2\Major_Project\obj\Debug\net9.0-windows\ref\Major_Project.dll
+D:\Assignment\COMPROG_2\Major_Project\bin\Debug\net9.0-windows\Major_Project.exe
+D:\Assignment\COMPROG_2\Major_Project\bin\Debug\net9.0-windows\Major_Project.deps.json
+D:\Assignment\COMPROG_2\Major_Project\bin\Debug\net9.0-windows\Major_Project.runtimeconfig.json
+D:\Assignment\COMPROG_2\Major_Project\bin\Debug\net9.0-windows\Major_Project.dll
+D:\Assignment\COMPROG_2\Major_Project\bin\Debug\net9.0-windows\Major_Project.pdb
+D:\Assignment\COMPROG_2\Major_Project\obj\Debug\net9.0-windows\Major_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment\COMPROG_2\Major_Project\obj\Debug\net9.0-windows\Major_Project.AssemblyInfoInputs.cache
+D:\Assignment\COMPROG_2\Major_Project\obj\Debug\net9.0-windows\Major_Project.AssemblyInfo.cs
+D:\Assignment\COMPROG_2\Major_Project\obj\Debug\net9.0-windows\Major_Project.csproj.CoreCompileInputs.cache
+D:\Assignment\COMPROG_2\Major_Project\obj\Debug\net9.0-windows\Major_Project.dll
+D:\Assignment\COMPROG_2\Major_Project\obj\Debug\net9.0-windows\refint\Major_Project.dll
+D:\Assignment\COMPROG_2\Major_Project\obj\Debug\net9.0-windows\Major_Project.pdb
+D:\Assignment\COMPROG_2\Major_Project\obj\Debug\net9.0-windows\Major_Project.genruntimeconfig.cache
+D:\Assignment\COMPROG_2\Major_Project\obj\Debug\net9.0-windows\ref\Major_Project.dll
+C:\Users\wugg\Downloads\Major_Project\bin\Debug\net9.0-windows\Major_Project.exe
+C:\Users\wugg\Downloads\Major_Project\bin\Debug\net9.0-windows\Major_Project.deps.json
+C:\Users\wugg\Downloads\Major_Project\bin\Debug\net9.0-windows\Major_Project.runtimeconfig.json
+C:\Users\wugg\Downloads\Major_Project\bin\Debug\net9.0-windows\Major_Project.dll
+C:\Users\wugg\Downloads\Major_Project\bin\Debug\net9.0-windows\Major_Project.pdb
+C:\Users\wugg\Downloads\Major_Project\obj\Debug\net9.0-windows\Major_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wugg\Downloads\Major_Project\obj\Debug\net9.0-windows\Major_Project.AssemblyInfoInputs.cache
+C:\Users\wugg\Downloads\Major_Project\obj\Debug\net9.0-windows\Major_Project.AssemblyInfo.cs
+C:\Users\wugg\Downloads\Major_Project\obj\Debug\net9.0-windows\Major_Project.csproj.CoreCompileInputs.cache
+C:\Users\wugg\Downloads\Major_Project\obj\Debug\net9.0-windows\Major_Project.dll
+C:\Users\wugg\Downloads\Major_Project\obj\Debug\net9.0-windows\refint\Major_Project.dll
+C:\Users\wugg\Downloads\Major_Project\obj\Debug\net9.0-windows\Major_Project.pdb
+C:\Users\wugg\Downloads\Major_Project\obj\Debug\net9.0-windows\Major_Project.genruntimeconfig.cache
+C:\Users\wugg\Downloads\Major_Project\obj\Debug\net9.0-windows\ref\Major_Project.dll
+C:\Users\wugg\Downloads\Major_Project\obj\Debug\net9.0-windows\Major_Project.Form1.resources
+C:\Users\wugg\Downloads\Major_Project\obj\Debug\net9.0-windows\Major_Project.csproj.GenerateResource.cache
