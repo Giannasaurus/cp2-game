@@ -1,4 +1,4 @@
-# Development Process
+# In Development
 Below are the implementations made as of April 16, 2025, submitted as part of our team's midterm requirement:
 
 ## Design
