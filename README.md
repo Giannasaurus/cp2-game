@@ -22,4 +22,4 @@ Below are the implementations made as of April 16, 2025, submitted as part of ou
 - Use Skills (3 skills) 
 - Toggle Inventory (E key) 
   - Navigate Inventory (WASD)
--Escape Battle
+- Escape Battle
